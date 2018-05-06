@@ -1,0 +1,35 @@
+Hola chic@s:
+
+Les mando la información sobre lo que hemos estudiado de "git"
+
+REDSUMEN:
+
+** Subir datos a GitHub
+git push -u origin master
+
+** Actualizar repositorio
+git pull
+
+** Trabajo con ramas
+
+1) Mostrar la rama actual
+git branch
+
+2) Crear una nueva rama
+git branch draft
+
+3) Movernos de rama
+git checkout <nombre_rama>
+
+4) Publicar cambios de una rama
+git push -u origin <rama>
+
+5) Fusionar ramas
+
+5.1) Situarnos en la rama que va a absorber los cambios
+  git checkout master
+5.2) Fusionar las ramas con el comando '# git merge <rama_a_fusionar>'
+  git merge draft
+
+Saludos
+--Javier
