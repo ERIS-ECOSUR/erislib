@@ -2,7 +2,18 @@ Hola chic@s:
 
 Les mando la información sobre lo que hemos estudiado de "git"
 
-REDSUMEN:
+RESUMEN:
+
+git init
+** Para inicializar un repositorio en un directorio existente 
+** En otras palabras una nueva carpeta dentro de tu proyecto en GIT
+
+git clone htpps:// dirección 
+** Descarga una copia de un directorio creado en git
+
+
+**
+git add -m 
 
 ** Subir datos a GitHub
 git push -u origin master
