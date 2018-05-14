@@ -1,0 +1,1 @@
+Abrir imagenes satelitales con python y correr algoritmos
